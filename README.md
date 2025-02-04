@@ -2,6 +2,9 @@ This Power BI dashboard provides comprehensive insights into employee attrition 
 
 Dashboard Overview The dashboard focuses on attrition across various dimensions, such as education, age, salary, tenure, and job roles, supported by high-level KPIs and interactive visuals. It enables data-driven decisions to improve employee retention and workforce planning.
 
+![image](https://github.com/user-attachments/assets/16f7d0ef-5950-418b-9294-c2cd5ac6daa0)
+
+
 Key Metrics (Top Row)
 
 1. Total Employees:
